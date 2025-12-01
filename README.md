@@ -9,7 +9,7 @@ I've learning to code for a year now. Had built few frontend as well as backend 
 * 🌍  I'm based in Kolkata, Currently Working in Pune.
 * 🖥️  See my portfolio at [Souvik Dutta](http://www.linkedin.com/in/souvikdutta3/)
 * ✉️  You can contact me at [aimofsouvik14@gmail.com](mailto:aimofsouvik14@gmail.com)
-* 🚀  I'm currently working on [developing cool projects](http://github.com/SkD18/FrontEnd)
+* 🚀  I'm currently working on [developing cool projects](http://github.com/SkD18/project_LIM)
 * 🧠  I'm learning Java, Spring Boot, GCP
 * 🤝  I'm open to collaborating on Any ongoing open-projects
 
