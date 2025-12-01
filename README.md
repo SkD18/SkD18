@@ -4,7 +4,7 @@ Hi 👋 My name is Souvik Dutta
 3 YOE Software Engineer at HSBC
 -------------------------
 
-I've learning to code for a year now. Had built few frontend as well as backend projects during my last year of college.
+
 
 * 🌍  I'm Working Professional with 3 years of experience based in Pune.
 * 🖥️  See my portfolio at [Souvik Dutta](http://www.linkedin.com/in/souvikdutta3/)
