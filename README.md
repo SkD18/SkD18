@@ -6,7 +6,7 @@ Hi 👋 My name is Souvik Dutta
 
 I've learning to code for a year now. Had built few frontend as well as backend projects during my last year of college.
 
-* 🌍  I'm based in Kolkata, Currently Working in Pune.
+* 🌍  I'm Working Professional with 3 years of experience based in Pune.
 * 🖥️  See my portfolio at [Souvik Dutta](http://www.linkedin.com/in/souvikdutta3/)
 * ✉️  You can contact me at [aimofsouvik14@gmail.com](mailto:aimofsouvik14@gmail.com)
 * 🚀  I'm currently working on [developing cool projects](http://github.com/SkD18/project_LIM)
