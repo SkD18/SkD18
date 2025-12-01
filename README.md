@@ -26,7 +26,7 @@ Hi 👋 My name is Souvik Dutta
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/SkD18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/souvikdutta3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.github.com/SkD18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> </a><a href="https://leetcode.com/u/souvikD3/" target="_blank" rel="noreferrer"><img src="https://github.com/SkD18/icons/blob/main/leetcode.webp" width="32" height="32" /></a><a href="https://www.linkedin.com/in/souvikdutta3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.github.com/SkD18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
