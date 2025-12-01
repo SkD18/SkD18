@@ -34,3 +34,7 @@ I've learning to code for a year now. Had built few frontend as well as backend 
 
 <a href="http://www.github.com/SkD18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SkD18&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<b>My LeetCode Stats</b>
+
+![Dmytro Baida's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/souvikD3?theme=dark&bgColor=282828)
+
