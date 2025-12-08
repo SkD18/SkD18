@@ -24,6 +24,7 @@ void merge(int[] arr,int l, int r){
     int[] left=new int[n1];
     int[] right=new int[n2];
 
+    // adding values of each array
     int mainIndex = l;
     for(int i=0;i<n1;i++){
         left[i]= arr[mainIndex++];
