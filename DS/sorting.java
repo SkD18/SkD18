@@ -39,4 +39,23 @@ class Solution {
         }
         return num;
     }
+
+    //insertion sort
+    public int[] insertionSrt(int[] num) {
+        int n = num.length;
+
+        for (int i = 1; i < n; i++) {
+            int key = num[i];
+            int j = i - 1;
+
+            // Move elements of num[0..i-1], that are greater than key,
+            // to one position ahead of their current position
+            while (j >= 0 && num[j] > key) {
+                num[j + 1] = num[j];
+                j = j - 1;
+            }
+            num[j + 1] = key;
+        }
+        return num;
+    }
 }
