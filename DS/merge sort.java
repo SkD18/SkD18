@@ -35,8 +35,11 @@ void merge(int[] arr,int l, int r){
         right[j]=arr[mainIndex++];
     }
 
-    int i,j=0;
+    int i=0;
+    int j=0;
     mainIndex=l;
+
+    //sort elements from subarrays then add it to main array
     while(i<n1 && j<n2){
         if(left[i]<right[j]){
             arr[mainIndex++]=left[i++];
@@ -46,6 +49,8 @@ void merge(int[] arr,int l, int r){
         }
     }
 
+    //if there are extra elements from each array 
+    //just add it in main array
     while(i<n1){
         arr[mainIndex++]=left[i++];
     }
