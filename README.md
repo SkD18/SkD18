@@ -12,6 +12,7 @@
 
 ###
 
+<hr>
 
 * 🌍  I'm Working Professional with 3 years of experience in Backend.
 * ✉️  You can contact me at [aimofsouvik14@gmail.com](mailto:aimofsouvik14@gmail.com)
