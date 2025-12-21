@@ -5,7 +5,7 @@ Experienced Software Engineer at HSBC
 
 
 
-* 🌍  I'm Working Professional with 3 years of experience based in Pune.
+* 🌍  I'm Working Professional with 3 years of experience in Backend.
 * 🖥️  See my portfolio at [Souvik Dutta](http://www.linkedin.com/in/souvikdutta3/)
 * ✉️  You can contact me at [aimofsouvik14@gmail.com](mailto:aimofsouvik14@gmail.com)
 * 🚀  I'm currently working on [developing cool projects](http://github.com/SkD18/project_LIM)
