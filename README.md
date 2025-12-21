@@ -44,9 +44,9 @@
 
 ###
 <div align="center">
-    <img height='180' src="https://github-readme-streak-stats.herokuapp.com/?user=SkD18&theme=radical&hide_border=false"  />
-
-  <img height='180' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkD18&layout=compact&theme=radical" alt="SkD18" />
+  
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SkD18&theme=radical" alt="GitHub Streak" /></a></p>  <img height='180' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkD18&layout=compact&theme=radical" alt="SkD18" />
 </div>
 
 <h3 align="center">My LeetCode Stats</h3>
