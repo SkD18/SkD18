@@ -10,7 +10,7 @@ Experienced Software Engineer at HSBC
 * ✉️  You can contact me at [aimofsouvik14@gmail.com](mailto:aimofsouvik14@gmail.com)
 * 🚀  I'm currently working on [developing cool projects](http://github.com/SkD18/project_LIM)
 * 🧠  I'm learning Java, Spring Boot, GCP
-* 🤝  I'm open to collaborating on Any ongoing open-projects
+* 🤝  I'm open to collaborating on Any ongoing open-Source Projects
 
 ### Skills
 
