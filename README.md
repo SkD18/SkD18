@@ -1,7 +1,6 @@
 Hi 👋 My name is Souvik Dutta
 =============================
-
-3 YOE Software Engineer at HSBC
+Experienced Software Engineer at HSBC
 -------------------------
 
 
