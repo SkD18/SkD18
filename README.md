@@ -18,7 +18,7 @@
 * ✉️  You can contact me at [aimofsouvik14@gmail.com](mailto:aimofsouvik14@gmail.com)
 * 🚀  I'm currently working on [developing cool projects](https://github.com/SkD18/transaction-modernization-framework.git)
 * 🧠  I'm learning Java, Spring Boot, GCP
-* 🤝  I'm open to collaborating in an ongoing open-Source Projects
+* 🤝  I'm open to collaborating in an ongoing open-Source Project
 
 <hr>
 
